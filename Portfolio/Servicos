@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Servicos</title>
+        <link rel="stylesheet" type="text/css" href="css/Servicos.css">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0
+        ,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    </head> 
+    <body>
+        <!--tela_Sobre-->
+        <div class="Tela_Servicos">
+            <nav>
+                <h2 class="logo"></h2>
+                <ul>
+                <li><a href="Index.html">Inicio</a></li>
+                <li><a href="Sobre">Sobre</a></li>
+                <li><a href="Servicos">Servicos</a></li>
+                <li><a href="Habilidades">Habilidades</a></li>
+                <li><a href="Contato">Contato</a></li>
+            </ul>
+        </nav>
+           
+        <section class="servicos">
+            <div class="main">
+            <div class="servicos-texto">
+                <h2>Servicos</h2>
+                <h5>desenvolvimento Mobile <span>& desenvolvimento Web</span></h5>
+                <p>Consigo criar desde programas, app e sites tanto pra empresas ou pequenos negócios
+                    possuo uma tabela de preço flexivel pois procuro clientes onde possa criar um nome 
+                    no mercado de trabalho de desenvolvedor, caso possua interesse entrar na pagina de contatos
+                    onde todos meus contatos estão lá, desde já agradeço.   
+                </p>
+                <p><span>PAGINAS DE 8-16 PAGINAS:</span> 200-600 REAIS</p>
+
+                <p><span>PAGINAS DE 25-50 PAGINAS:</span> 400-1000 REAIS</p>
+
+                <p><span>CASO PRECISE DE MAIS PAGINAS:</span> SÓ VIA CONTATO</p>
+
+                <p> <span>Programas simples:</span> 200-500 REAIS</p>
+
+                <p> <span>Programas de média complexidade:</span> 300-600 REAIS</p>
+
+                <p> <span>Programas de alta complexidade:</span> SÓ VIA CONTATO</p>
+
+                <p> <span>Aplicativos simples:</span> 200-500 REAIS</p>
+
+                <p> <span>Aplicativos de média complexidade:</span> 300-600 REAIS</p>
+
+                <p> <span>Aplicativos de alta complexidade:</span> SÓ VIA CONTATO</p>
+
+                
+
+               
+                
+            </div>
+        </div>
+        </section>
+    </body>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Habilidades</title>
+        <link rel="stylesheet" type="text/css" href="css/Habilidades.css">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0
+        ,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    </head> 
+    <body>
+        <!--tela_Sobre-->
+        <div class="Tela_Habilidades">
+            <nav>
+                <h2 class="logo"></h2>
+                <ul>
+                <li><a href="Index.html">Inicio</a></li>
+                <li><a href="Sobre">Sobre</a></li>
+                <li><a href="Servicos">Servicos</a></li>
+                <li><a href="Habilidades">Habilidades</a></li>
+                <li><a href="Contato">Contato</a></li>
+            </ul>
+        </nav>
+           
+        <section class="Habilidades">
+            <div class="main">
+            <div class="texto-Habilidades">
+                <h2>Habilidades</h2>
+                <p><span>VONTADE DE CRESCER:</span> Creio que vontade seja minha melhor habilidade
+                    procuro sempre aprender coisas novas seja tanto na minha area quanto 
+                    em outras.
+                </p>
+                <p><span>ABSORÇÃO DE CONTEUDO:</span> Possuo bastante facilidade de absorver conteudos
+                    novos dependendo do seu grau do dificuldade, como citado a cima possuo 
+                    bastante curiosidade então caso seja necessario estudar um conteudo irei 
+                    estudar e dar sempre meu maximo.
+                </p>
+                <p><span>DAR TODO MEU POTENCIAL:</span> Normalmente quando algo é do meu interesse seja
+                    ele até mesmo um hobby como desenhar que é um dos meus, eu me dedico 100%
+                    pois procuro tentar melhorar ele ao meu potencial maximo pois creio que vai 
+                    me ajudar tanto na experiencia quanto no aprendizado.
+                </p>
+                <p><span>COMUNICAÇÃO:</span>  Quando necessita-se de comunicação no ambiente de trabalho
+                    eu acabo não tendo muitas dificuldades, creio que o trabalho atual como professor me ajudou
+                    muito nessa parte pois dar uma aula exige 100% dessa habilidade que estou desenvolvendo cada vez
+                    mais.
+                </p>
+                
+                
+
+               
+                
+            </div>
+        </div>
+        </section>

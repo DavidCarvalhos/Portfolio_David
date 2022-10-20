@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sobre</title>
+        <link rel="stylesheet" type="text/css" href="css/Sobre.css">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0
+        ,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    </head> 
+    <body>
+        <!--tela_Sobre-->
+        <div class="Tela_Sobre">
+            <nav>
+                <h2 class="logo"></h2>
+                <ul>
+                <li><a href="Index.html">Inicio</a></li>
+                <li><a href="Sobre">Sobre</a></li>
+                <li><a href="Servicos">Servicos</a></li>
+                <li><a href="Habilidades">Habilidades</a></li>
+                <li><a href="Contato">Contato</a></li>
+            </ul>
+        </nav>
+           
+        <section class="Sobre">
+            <div class="main">
+            <div class="sobre-texto">
+                <h2>Sobre mim</h2>
+                <h5>desenvolvedor Mobile <span>& desenvolvedor Web</span></h5>
+                <p>Meu nome é David Cesar, sou um desenvolvedor de website
+                    onde procuro criar programas, sites e app mais funcionais
+                    possiveis, procuro tanto deixar o mais acessivel quanto 
+                    funcional para o usuário criando interfaces simples, designs
+                    limpos.
+                </p>
+                <h5>Minhas <span>Experiências</span></h5>
+                <p>
+                    Possuo uma expência informal como programador freelancer, onde a maioria dos projetos são criação de banco de dados, possuo experiencia como estágiario de TI na prefeitura
+                    Municipal de Sorocaba onde atuava na manutenção de hardware e estou atualmente trabalhando como professor de JAVA na Escola Estadual Aggeo Pereira
+                                    </p>
+                <h5>Meus <span>Objetivos</span></h5>
+                <p>
+                     Procuro atuar como desenvolvedor full stack, trabalhando com as linguagens
+                     que for a mais funcional para cada tipo de programa.
+                </p>
+                <h5>Minhas <span>linguagens</span></h5>
+                <p>
+                     Possuo conhecimento em C#, Java, Javascript, html, css, Dynamics 365 e Flutter
+                </p>
+                
+            </div>
+        </div>
+        </section>
